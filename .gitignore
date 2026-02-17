@@ -77,3 +77,8 @@ core/tests/*dumps/*
 
 screenshots/*
 
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
